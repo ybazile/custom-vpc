@@ -123,15 +123,10 @@ Below are the screenshots documenting each step of the AWS VPC networking projec
 
 ---
 
-### **4. AWS CloudShell and CLI Commands**
-![CloudShell CLI](screenshots/Screenshot4.png)
+### **4. VPC Resource Map**
+![VPC Resource Map](screenshots/Screenshot4.png)
 
 ---
 
-### **5. CLI Error - Missing CIDR Block**
-![CLI Error](screenshots/Screenshot5.png)
-
----
-
-### **6. DependencyViolation Error During Cleanup**
-![DependencyViolation Error](screenshots/Screenshot6.png)
+### **5. AWS CloudShell CLI Commands**
+![AWS CloudShell CLI Commands](screenshots/Screenshot5.png)
