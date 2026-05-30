@@ -109,29 +109,29 @@ Below are the screenshots documenting each step of the AWS VPC networking projec
 ---
 
 ### **1. Custom VPC Creation**
-![Custom VPC Creation](Screenshots/screenshot1.jpeg)
+![Custom VPC Creation](screenshots/Screenshot1.png)
 
 ---
 
 ### **2. Subnet Configuration**
-![Subnet Configuration](Screenshots/screenshot2.jpeg)
+![Subnet Configuration](screenshots/Screenshot2.png)
 
 ---
 
 ### **3. Internet Gateway Creation and Attachment**
-![Internet Gateway](Screenshots/screenshot3.jpeg)
+![Internet Gateway](screenshots/Screenshot3.png)
 
 ---
 
 ### **4. AWS CloudShell and CLI Commands**
-![CloudShell CLI](Screenshots/screenshot4.jpeg)
+![CloudShell CLI](screenshots/Screenshot4.png)
 
 ---
 
 ### **5. CLI Error - Missing CIDR Block**
-![CLI Error](Screenshots/screenshot5.jpeg)
+![CLI Error](screenshots/Screenshot5.png)
 
 ---
 
 ### **6. DependencyViolation Error During Cleanup**
-![DependencyViolation Error](Screenshots/screenshot6.jpeg)
+![DependencyViolation Error](screenshots/Screenshot6.png)
