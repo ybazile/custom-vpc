@@ -1,1 +1,1 @@
-
+contains the screenshots and evidence from my AWS VPC project. It documents each major step I completed, including creating the VPC, configuring the subnet, attaching the Internet Gateway, running AWS CLI commands, and troubleshooting errors. This file serves as visual proof of the work I performed and confirms that I successfully built, configured, and cleaned up the VPC environment in AWS.
